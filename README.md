@@ -19,7 +19,7 @@ The main goals of this project are to answer key business questions, including:
 
 - What are the top five foods has the highest total from the packing and transport??
 
-- What are the top five foods best protein with the lowest emissions?
+- What are the top five foods with the least environment impact?
 
 
 🛠️ Tools & Libraries
