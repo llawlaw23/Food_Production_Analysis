@@ -1,11 +1,11 @@
 🌱 Food Production Sustainability Analysis
 
-This project analyzes the environmental impact of different food products using the Food_Production dataset. It focuses on greenhouse gas emissions, land use, water consumption, and the role of production stages such as farming, animal feed, transport, and packaging.
+In this project i analyzed the environmental impact of different food products using the Food_Production dataset. It focuses on greenhouse gas emissions, land use, water consumption, and the role of production stages such as farming, animal feed, transport, and packaging.
 
 
 📊 Project Objectives
 
-The main goals of this project are to answer key usiness questions, including:
+The main goals of this project are to answer key business questions, including:
 
 - Which foods have the highest greenhouse gas emissions per kilogram?
 
@@ -15,9 +15,9 @@ The main goals of this project are to answer key usiness questions, including:
 
 - Which foods have the lowest overall environmental impact?
 
-- How do packaging and transport emissions compare to farming and feed?
+- What are the top five foods with the highest combined emissions from the farm and feed stages??
 
-- Which foods give the best protein with the lowest emissions?
+- What are the top five foods with the highest combined emissions from the packing and transport??
 
 - How do processed foods compare to raw foods in emissions and resource use?
 
@@ -39,7 +39,9 @@ The main goals of this project are to answer key usiness questions, including:
 
 - Handled missing values by dropping columns with too many gaps and filling smaller gaps with 0.
 
-- Categorized foods into plant-based and animal-based groups.
+- used KNN for filling null values
+
+- Categorized foods into plant-based and animal-based groups for EDA.
 
 - Selected key indicators: total emissions, land use, and water withdrawals.
 
@@ -50,10 +52,6 @@ The analysis includes:
 
 - Bar charts of top emitters and water users.
 
-- Scatter plots comparing land use vs. emissions.
+- Violin and swam plots comparing land use vs. emissions.
 
 - Boxplots contrasting plant-based and animal-based foods.
-
-- Stacked bar charts showing contribution of production stages.
-
-- Heatmaps of correlations between key sustainability metrics.
