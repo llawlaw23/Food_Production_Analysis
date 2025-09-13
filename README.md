@@ -7,7 +7,7 @@ In this project i analyzed the environmental impact of different food products u
 
 The main goals of this project are to answer key business questions, including:
 
-- Which foods have the highest greenhouse gas emissions per kilogram?
+- Which foods have the highest greenhouse gas emissions per 100g of Protein?
 
 - How does land use differ between plant-based and animal-based foods?
 
@@ -15,11 +15,11 @@ The main goals of this project are to answer key business questions, including:
 
 - Which foods have the lowest overall environmental impact?
 
-- What are the top five foods with the highest combined emissions from the farm and feed stages??
+- What are the top five foods with the highest total from the farm and animal feed?
 
-- What are the top five foods with the highest combined emissions from the packing and transport??
+- What are the top five foods has the highest total from the packing and transport??
 
-- How do processed foods compare to raw foods in emissions and resource use?
+- What are the top five foods best protein with the lowest emissions?
 
 
 🛠️ Tools & Libraries
